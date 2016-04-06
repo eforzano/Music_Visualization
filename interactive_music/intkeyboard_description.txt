@@ -1,0 +1,19 @@
+Square Sin Wave, Keyboard, Music - Ernie (eaf692)
+
+Metronome - Tristen (tmh2566)
+
+Particle loop / particle lines - Steven (skt522)
+
+
+Our program is an audio visualization of a song that the group member Ernie produced and created. There is a sin wave made of squares that takes the parameter RMS amplitude 
+of the song in order to visualize the song. Tristen made a metronome to keep the time of the song. The pendulum class was used to describe the motion of as oscillating ball and string. 
+In oder to get the desired effect, the string was actually made into a spring to oppose the force of gravity(which is directed upwards to imitate centrifugal motion) as the ball moves side to side. 
+The particle lines were added to give the musical visualizer a static feel along with the floating particles to represent bubbles in water since our original project wanted to be water ripples.
+
+
+The user can use their computer keyboard in order to switch the colors of the background or to play along with the song. The notes were chosen in mind that someone with or without a musical background will be able to play 
+along within the key of the song. 
+
+
+Some difficulties that we ran into were that the rms function would go out of range unless the song was in mono. That was very difficult to find, because there was 
+no direct documentation on it. This was a fun musical application to create. 
